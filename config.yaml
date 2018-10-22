@@ -1,0 +1,149 @@
+# API key
+api_key:
+
+# timeout the IP ip_cache in seconds
+cache_timeout: 86400
+
+# Greynoise Tag IDs and corresponding names
+tags:
+  AMPERE_INNOTECH: Ampere Innotech
+  BAIDU_SPIDER: Baidu Spider
+  BINARYEDGE: BinaryEdge.io
+  BINGBOT: BingBot
+  BITCOIN_NODE_SCANNER_HIGH: Bitcoin Node Scanner
+  BITCOIN_NODE_SCANNER_LOW: Bitcoin Node Scanner
+  CAMBRIDGE_CYBERCRIME_CENTRE: Cambridge Cybercrime Centre
+  CASSANDRA_SCANNER_HIGH: Cassandra Scanner
+  CASSANDRA_SCANNER_LOW: Cassandra Scanner
+  CENSYS: Censys
+  CGI_SCRIPT_SCANNER: CGI Script Scanner
+  COBALT_STRIKE_SCANNER_HIGH: Cobalt Strike Scanner
+  COBALT_STRIKE_SCANNER_LOW: Cobalt Strike Scanner
+  COUNTERSTRIKE_SERVER_SCANNER_HIGH: CounterStrike Server Scanner
+  COUNTERSTRIKE_SERVER_SCANNER_LOW: CounterStrike Server Scanner
+  CPANEL_SCANNER_HIGH: CPanel Scanner
+  CPANEL_SCANNER_LOW: CPanel Scanner
+  CYBERGREEN: CyberGreen
+  DLINK_850L_WORM: D-Link 850L Worm
+  DNS_SCANNER_HIGH: DNS Scanner
+  DNS_SCANNER_LOW: DNS Scanner
+  DOCKERD_SCANNER_HIGH: Dockerd Scanner
+  DOCKERD_SCANNER_LOW: Dockerd Scanner
+  ELASTICSEARCH_SCANNER: Elasticsearch Scanner
+  ELASTICSEARCH_SCANNER_HIGH: Elasticsearch Scanner
+  ELASTICSEARCH_SCANNER_LOW: Elasticsearch Scanner
+  EMBEDDED_DEVICE_WORM: Embedded Device Worm
+  ETHEREUM_NODE_SCANNER_HIGH: Ethereum Node Scanner
+  ETHEREUM_NODE_SCANNER_LOW: Ethereum Node Scanner
+  FAST_HTTP_AUTH_SCANNER_CLIENT: Fast HTTP Auth Scanner Client
+  FTP_SCANNER_HIGH: FTP Scanner
+  FTP_SCANNER_LOW: FTP Scanner
+  GOOGLEBOT: GoogleBot
+  GO_HTTP_CLIENT: Go HTTP Client
+  HTTP_ALT_SCANNER_HIGH: HTTP Alt Scanner
+  HTTP_ALT_SCANNER_LOW: HTTP Alt Scanner
+  IOT_MQTT_SCANNER_HIGH: IOT MQTT Scanner
+  IOT_MQTT_SCANNER_LOW: IOT MQTT Scanner
+  IPIP: ipip.net
+  IPSEC_VPN_SCANNER_HIGH: IPSec VPN Scanner
+  IPSEC_VPN_SCANNER_LOW: IPSec VPN Scanner
+  JAVA_HTTP_CLIENT: Java HTTP Client
+  JBOSS_WORM: Jboss Worm
+  JORGEE_HTTP_SCANNER: Jorgee HTTP Scanner
+  LDAP_SCANNER_HIGH: LDAP Scanner
+  LDAP_SCANNER_LOW: LDAP Scanner
+  LITECOIN_NODE_SCANNER_HIGH: LiteCoin Node Scanner
+  LITECOIN_NODE_SCANNER_LOW: LiteCoin Node Scanner
+  MASSCAN_CLIENT: Masscan Client
+  MEMCACHED_SCANNER_HIGH: Memcached Scanner
+  MEMCACHED_SCANNER_LOW: Memcached Scanner
+  MINECRAFT_SCANNER_HIGH: Minecraft Scanner
+  MINECRAFT_SCANNER_LOW: Minecraft Scanner
+  MIRAI: Mirai
+  MONGODB_SCANNER_HIGH: MongoDB Scanner
+  MONGODB_SCANNER_LOW: MongoDB Scanner
+  MSSQL_SCANNER_HIGH: MSSQL Scanner
+  MSSQL_SCANNER_LOW: MSSQL Scanner
+  MYSQL_SCANNER_HIGH: MySQL Scanner
+  MYSQL_SCANNER_LOW: MySQL Scanner
+  NETBIOS_SCANNER_HIGH: NETBIOS Scanner
+  NETBIOS_SCANNER_LOW: NETBIOS Scanner
+  NETCRAFT: NetCraft
+  NETIS_ROUTER_ADMIN_SCANNER_HIGH: Netis Router Admin Scanner
+  NETIS_ROUTER_ADMIN_SCANNER_LOW: Netis Router Admin Scanner
+  NTP_SCANNER_HIGH: NTP Scanner
+  NTP_SCANNER_LOW: NTP Scanner
+  OPEN_PROXY_SCANNER: Open Proxy Scanner
+  PDRLABS: PDRLabs.net
+  PHPMYADMIN_WORM: PHPMyAdmin Worm
+  PINGDOM: Pingdom.com
+  PINGZAPPER: PingZapper
+  PING_SCANNER_HIGH: Ping Scanner
+  PING_SCANNER_LOW: Ping Scanner
+  POSTGRES_SCANNER_HIGH: Postgres Scanner
+  POSTGRES_SCANNER_LOW: Postgres Scanner
+  PPTP_VPN_SCANNER_HIGH: PPTP VPN Scanner
+  PPTP_VPN_SCANNER_LOW: PPTP VPN Scanner
+  PRINTER_SCANNER_HIGH: Printer Scanner
+  PRINTER_SCANNER_LOW: Printer Scanner
+  PRIVOXY_PROXY_SCANNER_HIGH: Privoxy Proxy Scanner
+  PRIVOXY_PROXY_SCANNER_LOW: Privoxy Proxy Scanner
+  PROBETHENET: ProbeTheNet.com
+  PROJECT25499: Project25499
+  PROJECT_SONAR: Project Sonar
+  PYCURL_HTTP_CLIENT: PycURL HTTP Client
+  PYTHON_REQUESTS_CLIENT: Python Requests Client
+  QUADMETRICS: Quadmetrics.com
+  RABBITMQ_SCANNER_HIGH: RabbitMQ Scanner
+  RABBITMQ_SCANNER_LOW: RabbitMQ Scanner
+  RDP_SCANNER_HIGH: RDP Scanner
+  RDP_SCANNER_LOW: RDP Scanner
+  REDIS_SCANNER_HIGH: Redis Scanner
+  REDIS_SCANNER_LOW: Redis Scanner
+  RESIDENTIAL: Residential
+  ROUTER_RPC_SCANNER_HIGH: Router RPC Scanner
+  ROUTER_RPC_SCANNER_LOW: Router RPC Scanner
+  RWTH_AACHEN_UNIVERSITY: RWTH AACHEN University
+  SHADOWSERVER: ShadowServer.org
+  SHODAN: Shodan.io
+  SIEMENS_PLC_SCANNER_HIGH: Siemens PLC Scanner
+  SIEMENS_PLC_SCANNER_LOW: Siemens PLC Scanner
+  SMB_SCANNER_HIGH: SMB Scanner
+  SMB_SCANNER_LOW: SMB Scanner
+  SMTP_SCANNER_HIGH: SMTP Scanner
+  SMTP_SCANNER_LOW: SMTP Scanner
+  SNMP_SCANNER_HIGH: SNMP Scanner
+  SNMP_SCANNER_LOW: SNMP Scanner
+  SOCKS_PROXY_SCANNER_HIGH: SOCKS Proxy Scanner
+  SOCKS_PROXY_SCANNER_LOW: SOCKS Proxy Scanner
+  SQUID_PROXY_SCANNER_HIGH: Squid Proxy Scanner
+  SQUID_PROXY_SCANNER_LOW: Squid Proxy Scanner
+  SSDP_UPNP_SCANNER_HIGH: SSDP/UPNP Scanner
+  SSDP_UPNP_SCANNER_LOW: SSDP/UPNP Scanner
+  SSH_SCANNER_HIGH: SSH Scanner
+  SSH_SCANNER_LOW: SSH Scanner
+  SSH_WORM_HIGH: SSH Worm
+  SSH_WORM_LOW: SSH Worm
+  STRETCHOID: Stretchoid.com
+  TEAM_CYMRU: Team Cymru
+  TELNET_SCANNER_HIGH: Telnet Scanner
+  TELNET_SCANNER_LOW: Telnet Scanner
+  TELNET_WORM_HIGH: Telnet Worm
+  TELNET_WORM_LOW: Telnet Worm
+  TFTP_SCANNER_HIGH: TFTP Scanner
+  TFTP_SCANNER_LOW: TFTP Scanner
+  TOR: Tor
+  UNKNOWN_LINUX_WORM: Unknown Linux Worm
+  VNC_SCANNER_HIGH: VNC Scanner
+  VNC_SCANNER_LOW: VNC Scanner
+  VOIP_SCANNER_HIGH: VOIP Scanner
+  VOIP_SCANNER_LOW: VOIP Scanner
+  WEB_SCANNER_HIGH: Web Scanner
+  WEB_SCANNER_LOW: Web Scanner
+  WINRM_SCANNER_HIGH: WinRM Scanner
+  WINRM_SCANNER_LOW: WinRM Scanner
+  WORDPRESS_WORM: Wordpress Worm
+  WinRM_SCANNER_LOW: WinRM Scanner
+  YANDEX_SEARCH_ENGINE: Yandex Search Engine
+  ZMAP_CLIENT: ZMap Client
+  ZMEU_WORM: ZmEu Worm
