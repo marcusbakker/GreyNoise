@@ -355,7 +355,7 @@ def print_tag_list(data):
         for tag in tags:
             tmp_tag_length = len(tag)
             if tmp_tag_length > tag_length:
-                tag_length = l
+                tag_length = tmp_tag_length
         format_string = '{:<' + str(tag_length+3) + 's}{:<' + str(tag_length+3) + 's}'
 
         print(format_string.format('Tag ID', 'Tag name'))
@@ -648,7 +648,6 @@ def write_csv_output_file(data, filepath, query_type):
                     if tag in TAGS:
                         tag_name = TAGS[tag]
                     writer.writerow([tag, tag_name])
-
 
 def menu(menu_parser):
     global API_KEY
